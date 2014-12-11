@@ -13,4 +13,4 @@ Google Form : http://goo.gl/forms/dL2IV6uCI4
 
 Mindmap : https://github.com/mizuman/techmap/blob/master/techmap.png
 
-![techmap](https://raw.githubusercontent.com/mizuman/techmap/master/techmap.png "techmap")
+![techmap](https://raw.githubusercontent.com/mizuman/techmap/master/techmap_low.png "techmap")
